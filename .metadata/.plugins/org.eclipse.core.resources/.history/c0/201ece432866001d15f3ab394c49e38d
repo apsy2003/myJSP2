@@ -1,0 +1,7 @@
+package com.apsy.project01;
+
+public interface BookService {
+
+	String create(Map<String, Object> map);
+	
+}
